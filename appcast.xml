@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>New App - Appcast</title>
+        <item>
+            <title>Version 1.15.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sun, 10 Aug 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/larryaasen/upgrader/master/test/testappcast.xml" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
