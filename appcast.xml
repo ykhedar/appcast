@@ -7,7 +7,11 @@
         <title>Version 3.0</title>
         <description>Minor updates and improvements.</description>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="macos" />
-        
+        <sparkle:version>3.0.0</sparkle:version>
+        <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
+        <sparkle:tags>
+            <sparkle:criticalUpdate/>
+        </sparkle:tags>
     </item>
   </channel>
 </rss>
