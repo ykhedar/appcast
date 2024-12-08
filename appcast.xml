@@ -6,10 +6,10 @@
     <item>
         <title>Version 1.0</title>
         <description>First Release</description>
-        <pubDate>Sun, 25 Nov 2024 12:00:00 +0000</pubDate>
-        <enclosure url="https://autrik-staging.com/api/public/assets/" sparkle:version="3.0" sparkle:os="macos" />
-        <sparkle:version>1.0.1</sparkle:version>
-        <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+        <pubDate>Sun, 8 Dec 2024 12:00:00 +0000</pubDate>
+        <enclosure url="https://autrik-staging.com/docs/downloads/" sparkle:version="3.0" sparkle:os="macos" />
+        <sparkle:version>2024.12.8</sparkle:version>
+        <sparkle:shortVersionString>2024.12.8</sparkle:shortVersionString>
         
     </item>
   </channel>
